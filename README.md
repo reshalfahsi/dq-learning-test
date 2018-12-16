@@ -1,7 +1,7 @@
-# dq-learning-test
+# dq-learning-test #
 
-to train
+* to train:
 python deepqlearning.py
 
-to test
+* to test:
 python deepqlearning.py False
