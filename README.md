@@ -1,4 +1,4 @@
-# dq-learning-test #
+# Deep Q-Learning #
 
 * to train:
 
